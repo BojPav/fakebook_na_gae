@@ -1,0 +1,17 @@
+p   {
+    color:darkblue;
+    font-family:monospace;
+    font-size:15px;
+}
+
+.slika:hover  {
+    border: 3px black solid;
+}
+
+.blue_highlight {
+    background-color: dodgerblue;
+}
+
+body    {
+    background-color:#C6E2FF;
+}
